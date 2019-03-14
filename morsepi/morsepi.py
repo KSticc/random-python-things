@@ -1,7 +1,9 @@
+#program for using an led to communicate in morse code
+
 from gpiozero import LED
 from time import sleep
 import string as string
-led = LED(18)
+led = LED(18) #set the default led to gpio pin 18
 
 MORSE_DICT = {'A':'.-', 'B':'-...','C':'-.-.','D':'-..','E':'.','F':'..-.','G':'--.',
 'H':'....', 'I':'..', 'J':'.---', 'K':'-.-', 'L':'.-..','M':'--','N':'-.','O':'---',
