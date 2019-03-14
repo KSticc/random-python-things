@@ -58,5 +58,5 @@ def morseSpeak(string):
 			_space()
 
 
-sleep(0.5)
-morseSpeak('hi')
+#Example of how this would be used within another python program
+#morseSpeak('hi')
