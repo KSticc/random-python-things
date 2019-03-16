@@ -1,0 +1,7 @@
+setup.py
+morsepi/__init__.py
+morsepi/morsepi.py
+morsepi.egg-info/PKG-INFO
+morsepi.egg-info/SOURCES.txt
+morsepi.egg-info/dependency_links.txt
+morsepi.egg-info/top_level.txt
